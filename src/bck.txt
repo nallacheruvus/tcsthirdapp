@@ -1,0 +1,10 @@
+ <h1
+        style={{ backgroundColor: 'blue', color: 'yellow', fontStyle: 'unset',alignContent:'end' }}>
+        Welcome to react
+      </h1>
+      <div style={{ backgroundColor: 'red', color: 'yellow', fontStyle: 'unset', textAlign: 'center' }}>
+        Hello there
+      </div>
+      <div style={{ backgroundColor: 'pink' }}>Hey there</div>
+      <div style={mystyle}>Hai whats up?</div>
+      <p className='mycls'>This is a para about a man who jumped from running train and set himself ablaze</p>
