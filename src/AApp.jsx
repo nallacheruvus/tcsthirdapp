@@ -3,11 +3,13 @@ import { retArr, retStr } from "./data";
 import './App.css'
 import ClsComp from "./ClsComp";
 import FuncComp from "./FunCmp";
+import Menu from "./Menu";
 
 function AApp(props) {
     return <>
         {/* <ClsComp /> */}
-        <FuncComp />
+        {/* <FuncComp /> */}
+<Menu />
     </>
 }
 
